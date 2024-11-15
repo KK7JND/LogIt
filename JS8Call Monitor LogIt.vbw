@@ -1,0 +1,4 @@
+frmMain = 44, 44, 399, 364, C, 22, 22, 433, 459, C
+basSysTray = 66, 66, 421, 386, C
+basUtilites = 66, 66, 599, 506, Z
+basUTCTime = 22, 22, 555, 462, C
