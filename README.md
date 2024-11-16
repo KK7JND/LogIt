@@ -5,5 +5,3 @@ The LogIt program is designed to emulate this behavior, through a separate GUI t
 # Prerequisites
 - Windows XP or higher.
 - Version 0.6 or higher of JS8Call Monitor.
-# Releases
-Please see sidebar for releases and executables.
